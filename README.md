@@ -11,5 +11,5 @@
 
 <h3 align="center">Projects</h3>
 
-<img src="https://github.com/JhonGuzman1/portafolio/blob/main/sitemas_erp.gif" width="256"/>
-<img src="https://github.com/JhonGuzman1/portafolio/blob/main/app.gif" width="256"/>
+<img src="https://github.com/JhonGuzman1/portafolio/blob/main/sitemas_erp.gif" width="256" height="200"/>
+<img src="https://github.com/JhonGuzman1/portafolio/blob/main/app_anime.gif" width="256"  height="200"/>
