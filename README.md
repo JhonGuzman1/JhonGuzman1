@@ -6,7 +6,7 @@
 📫 Email: jdguzman.ortega@gmail.com
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
+<a href="https://www.linkedin.com/in/jhon-daniel-guzman-ortega-7ab8201a1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
