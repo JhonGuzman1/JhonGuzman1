@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td> <img src="https://github.com/JhonGuzman1/portafolio/blob/main/sitemas_erp.gif" width="300" /></td>
-    /*<td><img src="https://github.com/JhonGuzman1/portafolio/blob/main/app_anime.gif" width="150"  height="300"/></td>*/
+    <!-- <td><img src="https://github.com/JhonGuzman1/portafolio/blob/main/app_anime.gif" width="150"  height="300"/></td>-->
   </tr>
 </table>
 
